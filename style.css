@@ -104,6 +104,8 @@ body {
     margin: 1rem;
 }
 
+p { color: var(--clr-neutral-secondary-400); }
+
 /* utilties */
 .flex-group {
     display: flex;
